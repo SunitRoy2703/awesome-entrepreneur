@@ -5,3 +5,8 @@ A curated list of awesome entrepreneurial podcast and learning resource
 - [Garyvee](https://www.youtube.com/garyvee)
 - [Y Combinator](https://www.youtube.com/ycombinator)
 - [Ankur Warikoo](https://www.youtube.com/warikoo)
+
+## Case Studies
+- [How did Facebook become a $850 billion company?](https://youtu.be/p2RCPyv95SE)
+- [Will Netflix survive the competition? Business Case Study](https://youtu.be/bUFVJKwZYP4)
+- [Business Case Studies by Think Different](https://youtube.com/playlist?list=PLGwmAEmjn4fmL_kCTOR-N4fXOlXvLa8dG)(Playlist)
