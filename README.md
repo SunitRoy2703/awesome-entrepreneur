@@ -12,6 +12,9 @@ A curated list of awesome entrepreneurial podcast and learning resource
 - [Y Combinator](https://www.youtube.com/ycombinator)
 - [Ankur Warikoo](https://www.youtube.com/warikoo)
 
+## Podcast
+- [Delivering Pizzas to Building a Billion Dollar Business | Ben Francis Gymshark CEO](https://youtu.be/Ix5ON9dZ-es)
+
 ## Case Studies
 - [How did Facebook become a $850 billion company?](https://youtu.be/p2RCPyv95SE)
 - [Will Netflix survive the competition? Business Case Study](https://youtu.be/bUFVJKwZYP4)
