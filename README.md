@@ -1,16 +1,20 @@
 # awesome-entrepreneur
-A curated list of awesome entrepreneurial podcast and learning resource
+A curated list of awesome entrepreneurial podcast and learning resource✨
 
 ## Twitter Ids to follow
 - [Naval](https://twitter.com/naval)
 - [Kunal Shah](https://twitter.com/kunalb11)
 - [Gary Vaynerchuk](https://twitter.com/garyvee)
 - [Richard Branson](https://twitter.com/richardbranson)
+- 
 
 ## Youtube Channels
 - [Garyvee](https://www.youtube.com/garyvee)
 - [Y Combinator](https://www.youtube.com/ycombinator)
 - [Ankur Warikoo](https://www.youtube.com/warikoo)
+- [Mark Cuban](https://twitter.com/mcuban)
+- [Guy Kawasaki](https://twitter.com/GuyKawasaki)
+- 
 
 ## Podcast
 - [Delivering Pizzas to Building a Billion Dollar Business | Ben Francis Gymshark CEO](https://youtu.be/Ix5ON9dZ-es)
