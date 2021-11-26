@@ -6,7 +6,6 @@ A curated list of awesome entrepreneurial podcast and learning resource✨
 - [Kunal Shah](https://twitter.com/kunalb11)
 - [Gary Vaynerchuk](https://twitter.com/garyvee)
 - [Richard Branson](https://twitter.com/richardbranson)
-- 
 
 ## Youtube Channels
 - [Garyvee](https://www.youtube.com/garyvee)
