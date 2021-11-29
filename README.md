@@ -34,3 +34,5 @@ A curated list of awesome entrepreneurial podcast and learning resource✨
 - [Entrepreneurship Series](https://youtube.com/playlist?list=PLGwmAEmjn4fkHGGBfGQ2Pd2D9rrOJzWhh) by Think School
 - [How to Start a Startup](https://youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1) by Y Combinator
 - [How to Start a Startup](https://youtube.com/playlist?list=PL8XqTmg5WK1PNvBEDukLubPeKAFipVpaH) by IIM AHMEDABAD
+
+> [Apache License Version 2.0](LICENSE)
