@@ -14,6 +14,9 @@ A curated list of awesome entrepreneurial podcast and learning resource✨
 - [Mark Cuban](https://twitter.com/mcuban)
 - [Guy Kawasaki](https://twitter.com/GuyKawasaki)
 
+## Talks
+- [Competition is for Losers with Peter Thiel](https://youtu.be/3Fx5Q8xGU8k)
+
 ## Podcast
 - [Delivering Pizzas to Building a Billion Dollar Business | Ben Francis Gymshark CEO](https://youtu.be/Ix5ON9dZ-es)
 
