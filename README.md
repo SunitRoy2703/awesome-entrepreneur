@@ -6,6 +6,10 @@ A curated list of awesome entrepreneurial podcast and learning resource✨
 - [Kunal Shah](https://twitter.com/kunalb11)
 - [Gary Vaynerchuk](https://twitter.com/garyvee)
 - [Richard Branson](https://twitter.com/richardbranson)
+- [Sundar Pichai](https://twitter.com/sundarpichai)
+- [Elon Musk](https://twitter.com/elonmusk)
+- [Ankur Warikoo](https://twitter.com/warikoo)
+- [Nithin Kamath](https://twitter.com/Nithin0dha)
 
 ## Youtube Channels
 - [Garyvee](https://www.youtube.com/garyvee)
