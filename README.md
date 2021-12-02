@@ -40,6 +40,7 @@ A curated list of awesome entrepreneurial podcast and learning resource✨
 - [Entrepreneurship](https://youtube.com/playlist?list=PLLuTgG8yQcXNxZPNeFwN--i2yMy6zVjPr) by MIT LaunchX
 - [Entrepreneurship Series](https://youtube.com/playlist?list=PLGwmAEmjn4fkHGGBfGQ2Pd2D9rrOJzWhh) by Think School
 - [How to Start a Startup](https://youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1) by Y Combinator
-- [How to Start a Startup](https://youtube.com/playlist?list=PL8XqTmg5WK1PNvBEDukLubPeKAFipVpaH) by IIM AHMEDABAD
+- [How to Start a Startup](https://youtube.com/playlist?list=PL8XqTmg5WK1PNvBEDukLubPeKAFipVpaH) by Ritesh Agarwal
+- [How to Start a Startup](https://youtu.be/sk6hA6JR9gI) by Kunal Shah
 
 > [Apache License Version 2.0](LICENSE)
