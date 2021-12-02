@@ -1,5 +1,5 @@
 # awesome-entrepreneur
-A curated list of awesome entrepreneurial podcast and learning resource✨
+A curated list of awesome entrepreneurial talks and learning resource✨
 
 ## Twitter Ids to follow
 - [Naval](https://twitter.com/naval)
