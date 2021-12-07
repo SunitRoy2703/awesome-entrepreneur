@@ -31,6 +31,7 @@ A curated list of awesome entrepreneurial talks and learning resource✨
 - [Business Case Studies by Think Different](https://youtube.com/playlist?list=PLGwmAEmjn4fmL_kCTOR-N4fXOlXvLa8dG) (Playlist)
 - [Best Of ColdFusion TV](https://www.youtube.com/playlist?list=PL0iVR8sl9TiW7r7G-pduGsivB20jh2YS4) (Playlist)
 - [The Greatest Story Ever Told [Where It All Began]](https://youtu.be/A2wG0sXbMhw)
+- [How Starbucks' Legendary Leader brought the company out of a Crisis?](https://youtu.be/vvzpciKoU5g)
 
 ## Learning Resources/ Guides
 - [Startup School Winter 2020](https://youtube.com/playlist?list=PLQ-uHSnFig5PjfCy7mE77XMGhgky9HV3o) by Y combinator
