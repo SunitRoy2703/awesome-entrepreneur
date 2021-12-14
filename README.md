@@ -8,6 +8,7 @@ A curated list of awesome entrepreneurial talks and learning resource✨
 - [Richard Branson](https://twitter.com/richardbranson)
 - [Sundar Pichai](https://twitter.com/sundarpichai)
 - [Elon Musk](https://twitter.com/elonmusk)
+- [Balaji Srinivasan](https://twitter.com/balajis)
 - [Ankur Warikoo](https://twitter.com/warikoo)
 - [Nithin Kamath](https://twitter.com/Nithin0dha)
 
