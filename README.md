@@ -34,6 +34,9 @@ A curated list of awesome entrepreneurial talks and learning resource✨
 - [How Starbucks' Legendary Leader brought the company out of a Crisis?](https://youtu.be/vvzpciKoU5g)
 - [How MAGGI's GENIUS Marketing Strategy made it a Market Leader](https://youtu.be/r5OCFaXqS5I)
 
+## Web 3.0
+- [a16z -Crypto Startup School Playlist](https://youtube.com/playlist?list=PLK9Lwn4_TfLS3I9huJjd-k_FeMKiTkAff) by TechCruch
+
 ## Learning Resources/ Guides
 - [Startup School Winter 2020](https://youtube.com/playlist?list=PLQ-uHSnFig5PjfCy7mE77XMGhgky9HV3o) by Y combinator
 - [CRED curious](https://youtube.com/playlist?list=PLTzr9kdwf7PtSoyv2z7bzoNUNZKRdUN-E) by Cred
