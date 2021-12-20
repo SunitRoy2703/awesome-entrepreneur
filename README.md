@@ -18,6 +18,7 @@ A curated list of awesome entrepreneurial talks and learning resource✨
 - [Ankur Warikoo](https://www.youtube.com/warikoo)
 - [Mark Cuban](https://twitter.com/mcuban)
 - [Guy Kawasaki](https://twitter.com/GuyKawasaki)
+- [Slidebean](https://www.youtube.com/user/slidebean)
 
 ## Talks
 - [Competition is for Losers with Peter Thiel](https://youtu.be/3Fx5Q8xGU8k)
