@@ -19,6 +19,9 @@ A curated list of awesome entrepreneurial talks and learning resource✨
 - [Mark Cuban](https://twitter.com/mcuban)
 - [Guy Kawasaki](https://twitter.com/GuyKawasaki)
 - [Slidebean](https://www.youtube.com/user/slidebean)
+- [ColdFusion](https://www.youtube.com/ColdFusion)
+- [BackstageWithMillionaires](https://www.youtube.com/c/BackstageWithMillionaires)
+- [GarryTan](https://www.youtube.com/GarryTan)
 
 ## Talks
 - [Competition is for Losers with Peter Thiel](https://youtu.be/3Fx5Q8xGU8k)
