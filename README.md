@@ -20,6 +20,7 @@ A curated list of awesome entrepreneurial talks and learning resource✨
 - [Guy Kawasaki](https://twitter.com/GuyKawasaki)
 - [Slidebean](https://www.youtube.com/user/slidebean)
 - [ColdFusion](https://www.youtube.com/ColdFusion)
+- [ThinkSchool](https://www.youtube.com/ThinkSchool)
 - [BackstageWithMillionaires](https://www.youtube.com/c/BackstageWithMillionaires)
 - [GarryTan](https://www.youtube.com/GarryTan)
 
