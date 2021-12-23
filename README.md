@@ -3,6 +3,7 @@ A curated list of awesome entrepreneurial talks and learning resource✨
 
 ## Twitter Ids to follow
 - [Naval](https://twitter.com/naval)
+- [Jack](https://twitter.com/jack)
 - [Kunal Shah](https://twitter.com/kunalb11)
 - [Gary Vaynerchuk](https://twitter.com/garyvee)
 - [Richard Branson](https://twitter.com/richardbranson)
