@@ -43,6 +43,7 @@ A curated list of awesome entrepreneurial talks and learning resource✨
 - [How MAGGI's GENIUS Marketing Strategy made it a Market Leader](https://youtu.be/r5OCFaXqS5I)
 
 ## Web 3.0
+- [Decentralizing Everything with Ethereum's](https://youtu.be/WSN5BaCzsbo) Vitalik Buterin
 - [a16z -Crypto Startup School Playlist](https://youtube.com/playlist?list=PLK9Lwn4_TfLS3I9huJjd-k_FeMKiTkAff) by TechCruch
 
 ## Learning Resources/ Guides
