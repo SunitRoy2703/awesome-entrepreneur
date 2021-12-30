@@ -27,6 +27,7 @@ A curated list of awesome entrepreneurial talks and learning resource✨
 
 ## Talks
 - [Competition is for Losers with Peter Thiel](https://youtu.be/3Fx5Q8xGU8k)
+- [Mark Zuckerberg at Startup School 2012](https://youtu.be/5bJi7k-y1Lo)
 
 ## Podcast & Interviews
 - [Delivering Pizzas to Building a Billion Dollar Business | Ben Francis Gymshark CEO](https://youtu.be/Ix5ON9dZ-es)
