@@ -32,6 +32,7 @@ A curated list of awesome entrepreneurial talks and learning resource✨
 ## Podcast & Interviews
 - [Delivering Pizzas to Building a Billion Dollar Business | Ben Francis Gymshark CEO](https://youtu.be/Ix5ON9dZ-es)
 - [How He Built a ₹55,000+ CRORE Startup! | Co-Founder of Razorpay](https://youtu.be/7l_r8IanRWM)
+- [Joe Rogan Experience #1309 - Naval Ravikant](https://youtu.be/3qHkcs3kG44)
 
 ## Case Studies
 - [How Bengaluru Became India's Silicon Valley](https://youtu.be/C5u5mmVwDrE)
