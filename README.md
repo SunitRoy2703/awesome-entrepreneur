@@ -47,6 +47,7 @@ A curated list of awesome entrepreneurial talks and learning resource✨
 ## Web 3.0
 - [Decentralizing Everything with Ethereum's](https://youtu.be/WSN5BaCzsbo) Vitalik Buterin
 - [a16z -Crypto Startup School Playlist](https://youtube.com/playlist?list=PLK9Lwn4_TfLS3I9huJjd-k_FeMKiTkAff) by TechCruch
+- [Why Decentralization Matters](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e)
 
 ## Learning Resources/ Guides
 - [Startup School Winter 2020](https://youtube.com/playlist?list=PLQ-uHSnFig5PjfCy7mE77XMGhgky9HV3o) by Y combinator
