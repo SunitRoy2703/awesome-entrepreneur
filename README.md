@@ -29,6 +29,7 @@ A curated list of awesome entrepreneurial talks and learning resource✨
 - [Competition is for Losers with Peter Thiel](https://youtu.be/3Fx5Q8xGU8k)
 - [Mark Zuckerberg at Startup School 2012](https://youtu.be/5bJi7k-y1Lo)
 - [Kevin Hale - How to Evaluate Startup Ideas](https://youtu.be/DOtCl5PU8F0)
+- [Growth Without Ads- Is This The End Of The Ad World As We Know It? - Kunal Shah](https://youtu.be/MrKPlo3yMSw)
 
 ## Podcast & Interviews
 - [Delivering Pizzas to Building a Billion Dollar Business | Ben Francis Gymshark CEO](https://youtu.be/Ix5ON9dZ-es)
