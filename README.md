@@ -26,15 +26,15 @@ A curated list of awesome entrepreneurial talks and learning resource✨
 - [GarryTan](https://www.youtube.com/GarryTan)
 
 ## Talks
-- [Competition is for Losers with Peter Thiel](https://youtu.be/3Fx5Q8xGU8k)
+- [Competition is for Losers](https://youtu.be/3Fx5Q8xGU8k) with Peter Thiel
 - [Mark Zuckerberg at Startup School 2012](https://youtu.be/5bJi7k-y1Lo)
-- [Kevin Hale - How to Evaluate Startup Ideas](https://youtu.be/DOtCl5PU8F0)
-- [Growth Without Ads- Is This The End Of The Ad World As We Know It? - Kunal Shah](https://youtu.be/MrKPlo3yMSw)
+- [How to Evaluate Startup Ideas](https://youtu.be/DOtCl5PU8F0) by Kevin Hale
+- [Growth Without Ads- Is This The End Of The Ad World As We Know It?](https://youtu.be/MrKPlo3yMSw) - Kunal Shah
 
 ## Podcast & Interviews
-- [Delivering Pizzas to Building a Billion Dollar Business | Ben Francis Gymshark CEO](https://youtu.be/Ix5ON9dZ-es)
-- [How He Built a ₹55,000+ CRORE Startup! | Co-Founder of Razorpay](https://youtu.be/7l_r8IanRWM)
-- [Joe Rogan Experience #1309 - Naval Ravikant](https://youtu.be/3qHkcs3kG44)
+- [Delivering Pizzas to Building a Billion Dollar Business](https://youtu.be/Ix5ON9dZ-es) - Ben Francis Gymshark CEO
+- [How He Built a ₹55,000+ CRORE Startup!](https://youtu.be/7l_r8IanRWM) - Co-Founder of Razorpay
+- [Joe Rogan Experience #1309](https://youtu.be/3qHkcs3kG44) - Naval Ravikant
 
 ## Case Studies
 - [How Bengaluru Became India's Silicon Valley](https://youtu.be/C5u5mmVwDrE)
