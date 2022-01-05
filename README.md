@@ -1,5 +1,8 @@
 # awesome-entrepreneur
-A curated list of awesome entrepreneurial talks and learning resource✨
+
+![Random Graphics](https://user-images.githubusercontent.com/67560900/148181466-012d746d-40bf-4c24-b922-01d6e8abbb81.png)
+
+**A curated list of awesome entrepreneurial talks and learning resources✨**
 
 ## Twitter Ids to follow
 - [Naval](https://twitter.com/naval)
