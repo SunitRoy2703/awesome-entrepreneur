@@ -5,6 +5,7 @@
 **A curated list of awesome entrepreneurial talks and learning resources✨**
 
 ## Twitter Ids to follow
+- [Y Combinator](https://twitter.com/ycombinator)
 - [Naval](https://twitter.com/naval)
 - [Jack](https://twitter.com/jack)
 - [Kunal Shah](https://twitter.com/kunalb11)
