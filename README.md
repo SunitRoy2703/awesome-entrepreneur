@@ -54,6 +54,7 @@
 - [Decentralizing Everything with Ethereum's](https://youtu.be/WSN5BaCzsbo) Vitalik Buterin
 - [a16z -Crypto Startup School Playlist](https://youtube.com/playlist?list=PLK9Lwn4_TfLS3I9huJjd-k_FeMKiTkAff) by TechCruch
 - [Why Decentralization Matters](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e)
+- [NFT Summit](https://www.youtube.com/playlist?list=PLM4u6XbiXf5omwoWS7AsncKViss76s28x)
 
 ## Learning Resources/ Guides
 - [Startup School Winter 2020](https://youtube.com/playlist?list=PLQ-uHSnFig5PjfCy7mE77XMGhgky9HV3o) by Y combinator
