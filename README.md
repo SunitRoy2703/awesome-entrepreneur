@@ -69,5 +69,6 @@
 - [How to Start a Startup](https://youtu.be/sk6hA6JR9gI) by Kunal Shah
 - [How to Get Startup Ideas](https://youtu.be/uvw-u99yj8w)
 - [Business & Product Free Courses](https://www.udacity.com/courses/all?field=school-of-product-management&field=school-of-business&price=Free) by Udacity
+- [How to Get Rich](https://youtu.be/1-TZqOsVCNM) by Naval
 
 > [Apache License Version 2.0](LICENSE)
