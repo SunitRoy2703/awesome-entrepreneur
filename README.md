@@ -56,6 +56,7 @@
 - [a16z -Crypto Startup School Playlist](https://youtube.com/playlist?list=PLK9Lwn4_TfLS3I9huJjd-k_FeMKiTkAff) by TechCruch
 - [Why Decentralization Matters](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e)
 - [Balaji Srinivasan: Applications: Today & 2025](https://youtu.be/3jPYk7ucrjo)
+- [Solana Breakpoint 2021](https://www.youtube.com/playlist?list=PLilwLeBwGuK7yLsxKM1RZlxuNpaEuBEXk)
 - [NFT Summit](https://www.youtube.com/playlist?list=PLM4u6XbiXf5omwoWS7AsncKViss76s28x)
 
 ## Learning Resources/ Guides
