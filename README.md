@@ -67,6 +67,7 @@
 - [Product Design Course | Tech Entrepreneur Nanodegree Program](https://youtube.com/playlist?list=PLAwxTw4SYaPlTr1MmjkAZXVv8Su2CfY7D) by Udacity
 - [Entrepreneurship](https://youtube.com/playlist?list=PLLuTgG8yQcXNxZPNeFwN--i2yMy6zVjPr) by MIT LaunchX
 - [Entrepreneurship Series](https://youtube.com/playlist?list=PLGwmAEmjn4fkHGGBfGQ2Pd2D9rrOJzWhh) by Think School
+- [Video Essays](https://youtube.com/playlist?list=PLQ-uHSnFig5OA-fmW_IH2QvAuY7317FFl)
 - [How to Start a Startup](https://youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1) by Y Combinator
 - [How to Start a Startup](https://youtube.com/playlist?list=PL8XqTmg5WK1PNvBEDukLubPeKAFipVpaH) by Ritesh Agarwal
 - [How to Start a Startup](https://youtu.be/sk6hA6JR9gI) by Kunal Shah
