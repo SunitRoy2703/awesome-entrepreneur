@@ -72,6 +72,7 @@
 - [How to Start a Startup](https://youtube.com/playlist?list=PL8XqTmg5WK1PNvBEDukLubPeKAFipVpaH) by Ritesh Agarwal
 - [How to Start a Startup](https://youtu.be/sk6hA6JR9gI) by Kunal Shah
 - [How to Get Startup Ideas](https://youtu.be/uvw-u99yj8w)
+- [Startup School 2018](https://youtube.com/playlist?list=PLQ-uHSnFig5NVnJ_cLWM7dLuMQRDeekoX)
 - [Jared Friedman - Advice for Hard-tech and Biotech Founders](https://youtu.be/C1DlZWfI6rk)
 - [Gitlab's Secret to Managing 160 Employees in 160 Locations](https://youtu.be/e56PbkJdmZ8)
 - [Startup School Online 2017](https://www.youtube.com/playlist?list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17) by Y Combinator
