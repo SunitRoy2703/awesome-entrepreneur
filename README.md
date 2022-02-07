@@ -4,7 +4,7 @@
 
 **A curated list of awesome entrepreneurial talks and learning resources✨**
 
-## Twitter Ids to follow
+## Twitter @Ids to follow
 - [Y Combinator](https://twitter.com/ycombinator)
 - [Naval](https://twitter.com/naval)
 - [Jack](https://twitter.com/jack)
