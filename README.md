@@ -78,5 +78,6 @@
 - [Startup School Online 2017](https://www.youtube.com/playlist?list=PLQ-uHSnFig5MiLRb-l6yiCBGyqfVyVf17) by Y Combinator
 - [Business & Product Free Courses](https://www.udacity.com/courses/all?field=school-of-product-management&field=school-of-business&price=Free) by Udacity
 - [How to Get Rich](https://youtu.be/1-TZqOsVCNM) by Naval
+- [How to Find a Technical Cofounder](https://youtu.be/d7tDaFr5EYA) - Michael Seibel
 
 > [Apache License Version 2.0](LICENSE)
