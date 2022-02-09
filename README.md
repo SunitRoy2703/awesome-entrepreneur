@@ -33,7 +33,7 @@
 - [Competition is for Losers](https://youtu.be/3Fx5Q8xGU8k) with Peter Thiel
 - [Mark Zuckerberg at Startup School 2012](https://youtu.be/5bJi7k-y1Lo)
 - [How to Evaluate Startup Ideas](https://youtu.be/DOtCl5PU8F0) by Kevin Hale
-- [Growth Without Ads- Is This The End Of The Ad World As We Know It?](https://youtu.be/MrKPlo3yMSw) - Kunal Shah
+- [Growth Without Ads- Is This The End Of The Ad World As We Know It?](https://youtu.be/MrKPlo3yMSw) by Kunal Shah
 
 ## Podcast & Interviews
 - [Delivering Pizzas to Building a Billion Dollar Business](https://youtu.be/Ix5ON9dZ-es) - Ben Francis Gymshark CEO
