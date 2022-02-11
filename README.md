@@ -63,6 +63,7 @@
 ## Learning Resources/ Guides
 - [Startup School Winter 2020](https://youtube.com/playlist?list=PLQ-uHSnFig5PjfCy7mE77XMGhgky9HV3o) by Y combinator
 - [CRED curious](https://youtube.com/playlist?list=PLTzr9kdwf7PtSoyv2z7bzoNUNZKRdUN-E) by Cred
+- [How to Build the Future](https://www.youtube.com/playlist?list=PLQ-uHSnFig5MoTTcgd8EzenEADqGTQPpW)
 - [How to Build a Startup](https://youtube.com/playlist?list=PLAwxTw4SYaPnxzSuovATBMrNowGaaEBmW) by Udacity
 - [Product Design Course | Tech Entrepreneur Nanodegree Program](https://youtube.com/playlist?list=PLAwxTw4SYaPlTr1MmjkAZXVv8Su2CfY7D) by Udacity
 - [Entrepreneurship](https://youtube.com/playlist?list=PLLuTgG8yQcXNxZPNeFwN--i2yMy6zVjPr) by MIT LaunchX
