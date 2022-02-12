@@ -58,6 +58,7 @@
 - [Balaji Srinivasan: Applications: Today & 2025](https://youtu.be/3jPYk7ucrjo)
 - [Solana Breakpoint 2021](https://www.youtube.com/playlist?list=PLilwLeBwGuK7yLsxKM1RZlxuNpaEuBEXk)
 - [NFT Summit](https://www.youtube.com/playlist?list=PLM4u6XbiXf5omwoWS7AsncKViss76s28x)
+- [Payments](https://youtu.be/1AnBma9huJY) - Solana Labs
 - [MIT 15.S12 Blockchain and Money, Fall 2018](https://youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
 
 ## Learning Resources/ Guides
