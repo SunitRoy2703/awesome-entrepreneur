@@ -63,6 +63,7 @@
 - [MIT 15.S12 Blockchain and Money, Fall 2018](https://youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
 
 ## Learning Resources/ Guides
+- [YC Startup Library](https://www.ycombinator.com/library)
 - [Startup School Winter 2020](https://youtube.com/playlist?list=PLQ-uHSnFig5PjfCy7mE77XMGhgky9HV3o) by Y combinator
 - [CRED curious](https://youtube.com/playlist?list=PLTzr9kdwf7PtSoyv2z7bzoNUNZKRdUN-E) by Cred
 - [How to Build the Future](https://www.youtube.com/playlist?list=PLQ-uHSnFig5MoTTcgd8EzenEADqGTQPpW)
