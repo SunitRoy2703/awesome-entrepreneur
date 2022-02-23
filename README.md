@@ -10,6 +10,7 @@
 - [Jack](https://twitter.com/jack)
 - [Kunal Shah](https://twitter.com/kunalb11)
 - [Gary Vaynerchuk](https://twitter.com/garyvee)
+- [SBF](https://twitter.com/SBF_FTX)
 - [Richard Branson](https://twitter.com/richardbranson)
 - [Sundar Pichai](https://twitter.com/sundarpichai)
 - [Elon Musk](https://twitter.com/elonmusk)
