@@ -41,6 +41,7 @@
 - [How He Built a ₹55,000+ CRORE Startup!](https://youtu.be/7l_r8IanRWM) - Co-Founder of Razorpay
 - [Joe Rogan Experience #1309](https://youtu.be/3qHkcs3kG44) - Naval Ravikant
 - [Shark Ashneer Grover (Founder & MD, BharatPe) On Making A Profitable Business](https://youtu.be/nnEZVVC4Ap8)
+- [Deep dive into the Fintech ecosystem](https://youtu.be/xp_CaOy5Vf0) with Sameer Nigam and Kunal Shah
 
 ## Case Studies
 - [How Bengaluru Became India's Silicon Valley](https://youtu.be/C5u5mmVwDrE)
