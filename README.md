@@ -6,6 +6,7 @@
 
 ## Twitter @Ids to follow
 - [Y Combinator](https://twitter.com/ycombinator)
+- [Paul Graham](https://twitter.com/paulg)
 - [Naval](https://twitter.com/naval)
 - [Jack](https://twitter.com/jack)
 - [Kunal Shah](https://twitter.com/kunalb11)
