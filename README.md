@@ -8,6 +8,7 @@
 - [Y Combinator](https://twitter.com/ycombinator)
 - [Paul Graham](https://twitter.com/paulg)
 - [Naval](https://twitter.com/naval)
+- [Elon Musk](https://twitter.com/elonmusk)
 - [Jack](https://twitter.com/jack)
 - [Kunal Shah](https://twitter.com/kunalb11)
 - [Gary Vaynerchuk](https://twitter.com/garyvee)
