@@ -41,6 +41,7 @@
 ## Podcast & Interviews
 - [Delivering Pizzas to Building a Billion Dollar Business](https://youtu.be/Ix5ON9dZ-es) - Ben Francis Gymshark CEO
 - [How He Built a ₹55,000+ CRORE Startup!](https://youtu.be/7l_r8IanRWM) - Co-Founder of Razorpay
+- [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse | Lex Fridman Podcast](https://youtu.be/5zOHSysMmH0)
 - [Joe Rogan Experience #1309](https://youtu.be/3qHkcs3kG44) - Naval Ravikant
 - [Shark Ashneer Grover (Founder & MD, BharatPe) On Making A Profitable Business](https://youtu.be/nnEZVVC4Ap8)
 - [Deep dive into the Fintech ecosystem](https://youtu.be/xp_CaOy5Vf0) with Sameer Nigam and Kunal Shah
