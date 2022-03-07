@@ -29,10 +29,8 @@
 - [Justin Kan](https://www.youtube.com/c/JustinKanTV)
 - [Ankur Warikoo](https://www.youtube.com/warikoo)
 - [Tim Ferriss](https://www.youtube.com/c/timferriss)
-- [Greylock](https://www.youtube.com/c/GreylockVC)
-- [Mark Cuban](https://twitter.com/mcuban)
-- [Guy Kawasaki](https://twitter.com/GuyKawasaki)
-
+- [Ali Abdaal](https://www.youtube.com/c/aliabdaal)
+- [Naval](https://www.youtube.com/c/NavalR)
 
 ### Organizations
 - [Y Combinator](https://www.youtube.com/ycombinator)
@@ -43,6 +41,7 @@
 - [a16z](https://www.youtube.com/c/a16z)
 - [PowerfulJRE](https://www.youtube.com/c/joerogan)
 - [This Week in Startups](https://www.youtube.com/c/ThisWeekIn)
+- [Greylock](https://www.youtube.com/c/GreylockVC)
 
 
 ## Talks
