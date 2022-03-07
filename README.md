@@ -21,19 +21,29 @@
 - [Nithin Kamath](https://twitter.com/Nithin0dha)
 
 ## Youtube Channels
+
+### Individuals 
 - [Garyvee](https://www.youtube.com/garyvee)
-- [Y Combinator](https://www.youtube.com/ycombinator)
+- [GarryTan](https://www.youtube.com/GarryTan)
+- [John Coogan](https://www.youtube.com/c/JohnCooganPlus)
+- [Justin Kan](https://www.youtube.com/c/JustinKanTV)
 - [Ankur Warikoo](https://www.youtube.com/warikoo)
+- [Tim Ferriss](https://www.youtube.com/c/timferriss)
+- [Greylock](https://www.youtube.com/c/GreylockVC)
 - [Mark Cuban](https://twitter.com/mcuban)
 - [Guy Kawasaki](https://twitter.com/GuyKawasaki)
+
+
+### Organizations
+- [Y Combinator](https://www.youtube.com/ycombinator)
 - [Slidebean](https://www.youtube.com/user/slidebean)
 - [ColdFusion](https://www.youtube.com/ColdFusion)
 - [ThinkSchool](https://www.youtube.com/ThinkSchool)
 - [BackstageWithMillionaires](https://www.youtube.com/c/BackstageWithMillionaires)
-- [GarryTan](https://www.youtube.com/GarryTan)
-- [John Coogan](https://www.youtube.com/c/JohnCooganPlus)
-- [Justin Kan](https://www.youtube.com/c/JustinKanTV)
 - [a16z](https://www.youtube.com/c/a16z)
+- [PowerfulJRE](https://www.youtube.com/c/joerogan)
+- [This Week in Startups](https://www.youtube.com/c/ThisWeekIn)
+
 
 ## Talks
 - [Competition is for Losers](https://youtu.be/3Fx5Q8xGU8k) with Peter Thiel
