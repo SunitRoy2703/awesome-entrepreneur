@@ -31,6 +31,7 @@
 - [Tim Ferriss](https://www.youtube.com/c/timferriss)
 - [Ali Abdaal](https://www.youtube.com/c/aliabdaal)
 - [Naval](https://www.youtube.com/c/NavalR)
+- [Lex Fridman](https://www.youtube.com/c/lexfridman)
 
 ### Organizations
 - [Y Combinator](https://www.youtube.com/ycombinator)
