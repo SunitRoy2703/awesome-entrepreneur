@@ -31,6 +31,9 @@
 - [ThinkSchool](https://www.youtube.com/ThinkSchool)
 - [BackstageWithMillionaires](https://www.youtube.com/c/BackstageWithMillionaires)
 - [GarryTan](https://www.youtube.com/GarryTan)
+- [John Coogan](https://www.youtube.com/c/JohnCooganPlus)
+- [Justin Kan](https://www.youtube.com/c/JustinKanTV)
+- [a16z](https://www.youtube.com/c/a16z)
 
 ## Talks
 - [Competition is for Losers](https://youtu.be/3Fx5Q8xGU8k) with Peter Thiel
