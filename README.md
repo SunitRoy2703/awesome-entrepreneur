@@ -76,6 +76,7 @@
 ## Web 3.0
 - [How the blockchain is changing money and business](https://youtu.be/Pl8OlkkwRpc) - Don Tapscott
 - [Decentralizing Everything with Ethereum's](https://youtu.be/WSN5BaCzsbo) Vitalik Buterin
+- [The Showdown Over Crypto & Disruptive Technologies](https://youtu.be/NxfA0jtMwV4) Changpeng Zhao
 - [a16z -Crypto Startup School Playlist](https://youtube.com/playlist?list=PLK9Lwn4_TfLS3I9huJjd-k_FeMKiTkAff) by TechCruch
 - [Why Decentralization Matters](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e)
 - [Balaji Srinivasan: Applications: Today & 2025](https://youtu.be/3jPYk7ucrjo)
