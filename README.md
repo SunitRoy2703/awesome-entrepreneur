@@ -50,8 +50,11 @@
 - [Mark Zuckerberg at Startup School 2012](https://youtu.be/5bJi7k-y1Lo)
 - [How to Evaluate Startup Ideas](https://youtu.be/DOtCl5PU8F0) by Kevin Hale
 - [Growth Without Ads- Is This The End Of The Ad World As We Know It?](https://youtu.be/MrKPlo3yMSw) by Kunal Shah
+- [Before the Startup](https://youtu.be/ii1jcLg-eIQ) by Paul Graham
+- [Building Product, Talking to Users, and Growing](https://youtu.be/yP176MBG9Tk) by Adora Cheung
 
 ## Podcast & Interviews
+- [Eric Schmidt and Peter Thiel - Debate](https://youtu.be/PsXFwy6gG_4)
 - [Delivering Pizzas to Building a Billion Dollar Business](https://youtu.be/Ix5ON9dZ-es) - Ben Francis Gymshark CEO
 - [How He Built a ₹55,000+ CRORE Startup!](https://youtu.be/7l_r8IanRWM) - Co-Founder of Razorpay
 - [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse | Lex Fridman Podcast](https://youtu.be/5zOHSysMmH0)
