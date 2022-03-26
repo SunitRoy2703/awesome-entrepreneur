@@ -81,6 +81,10 @@
 - [Deep dive into the Fintech ecosystem](https://youtu.be/xp_CaOy5Vf0) with Sameer Nigam and Kunal Shah
 - [Coinbase CEO Brian Armstrong on Cryptocurrency and the Future of Decentralization](https://youtu.be/UpbGbKQsTjc)
 
+<div >
+  <img src="https://media0.giphy.com/media/xT8qBmCnJFN2DsJdug/giphy.gif" align="right" width="280">
+  </div>
+  
 ## Case Studies
 - [How Bengaluru Became India's Silicon Valley](https://youtu.be/C5u5mmVwDrE)
 - [How did Facebook become a $850 billion company?](https://youtu.be/p2RCPyv95SE)
@@ -90,6 +94,10 @@
 - [The Greatest Story Ever Told [Where It All Began]](https://youtu.be/A2wG0sXbMhw)
 - [How Starbucks' Legendary Leader brought the company out of a Crisis?](https://youtu.be/vvzpciKoU5g)
 - [How MAGGI's GENIUS Marketing Strategy made it a Market Leader](https://youtu.be/r5OCFaXqS5I)
+
+<div >
+  <img src="https://img-9gag-fun.9cache.com/photo/a1rrzK8_460s.jpg" align="right" width="250">
+  </div>
 
 ## Web 3.0
 - [How the blockchain is changing money and business](https://youtu.be/Pl8OlkkwRpc) - Don Tapscott
@@ -102,6 +110,10 @@
 - [NFT Summit](https://www.youtube.com/playlist?list=PLM4u6XbiXf5omwoWS7AsncKViss76s28x)
 - [Payments](https://youtu.be/1AnBma9huJY) - Solana Labs
 - [MIT 15.S12 Blockchain and Money, Fall 2018](https://youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
+
+<div >
+  <img src="https://miro.medium.com/max/1200/1*S6ZmQJFvM9SlDtQyxs-b6g.jpeg" align="right" width="250">
+  </div>
 
 ## Learning Resources/ Guides
 - [YC Startup Library](https://www.ycombinator.com/library)
