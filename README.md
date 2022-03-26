@@ -1,8 +1,13 @@
-# awesome-entrepreneur
+# *Awesome Entrepreneur*🧑🏻‍💻
 
 ![Random Graphics](https://user-images.githubusercontent.com/67560900/148181466-012d746d-40bf-4c24-b922-01d6e8abbb81.png)
 
 **A curated list of awesome entrepreneurial talks and learning resources✨**
+
+
+<div >
+  <img src="https://techcrunch.com/wp-content/uploads/2014/06/twitter-rise.gif?w=730&crop=1" align="right" height="200">
+  </div>
 
 ## Twitter @Ids to follow
 - [Y Combinator](https://twitter.com/ycombinator)
@@ -20,6 +25,10 @@
 - [Ankur Warikoo](https://twitter.com/warikoo)
 - [Nithin Kamath](https://twitter.com/Nithin0dha)
 
+<div >
+  <img src="https://c.tenor.com/tYIUpIiF-LIAAAAC/youtube-logo.gif" align="right" width="280">
+  </div>
+
 ## Youtube Channels
 
 ### Individuals 
@@ -33,6 +42,7 @@
 - [Naval](https://www.youtube.com/c/NavalR)
 - [Lex Fridman](https://www.youtube.com/c/lexfridman)
 
+
 ### Organizations
 - [Y Combinator](https://www.youtube.com/ycombinator)
 - [Slidebean](https://www.youtube.com/user/slidebean)
@@ -44,6 +54,9 @@
 - [This Week in Startups](https://www.youtube.com/c/ThisWeekIn)
 - [Greylock](https://www.youtube.com/c/GreylockVC)
 
+<div >
+  <img src="https://thumbs.gfycat.com/IcySnarlingIriomotecat-max-1mb.gif" align="right" width="280">
+  </div>
 
 ## Talks
 - [Competition is for Losers](https://youtu.be/3Fx5Q8xGU8k) with Peter Thiel
@@ -51,7 +64,12 @@
 - [How to Evaluate Startup Ideas](https://youtu.be/DOtCl5PU8F0) by Kevin Hale
 - [Growth Without Ads- Is This The End Of The Ad World As We Know It?](https://youtu.be/MrKPlo3yMSw) by Kunal Shah
 - [Before the Startup](https://youtu.be/ii1jcLg-eIQ) by Paul Graham
+- [9 Y Combinator Secrets To Grow Your Business](https://youtu.be/pTk2GdPWm7o) - John Coogan
 - [Building Product, Talking to Users, and Growing](https://youtu.be/yP176MBG9Tk) by Adora Cheung
+
+<div >
+  <img src="https://thumbs.gfycat.com/DescriptiveDimFishingcat-max-1mb.gif" align="right" width="280">
+  </div>
 
 ## Podcast & Interviews
 - [Eric Schmidt and Peter Thiel - Debate](https://youtu.be/PsXFwy6gG_4)
