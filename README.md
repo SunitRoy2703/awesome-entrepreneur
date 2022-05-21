@@ -32,25 +32,26 @@
 ## Youtube Channels
 
 ### Individuals 
-- [Garyvee](https://www.youtube.com/garyvee)
+- [Naval](https://www.youtube.com/c/NavalR)
+- [Justin Kan](https://www.youtube.com/c/JustinKanTV)
 - [GarryTan](https://www.youtube.com/GarryTan)
 - [John Coogan](https://www.youtube.com/c/JohnCooganPlus)
-- [Justin Kan](https://www.youtube.com/c/JustinKanTV)
+- [Garyvee](https://www.youtube.com/garyvee)
 - [Ankur Warikoo](https://www.youtube.com/warikoo)
 - [Tim Ferriss](https://www.youtube.com/c/timferriss)
 - [Ali Abdaal](https://www.youtube.com/c/aliabdaal)
-- [Naval](https://www.youtube.com/c/NavalR)
+- [PowerfulJRE](https://www.youtube.com/c/joerogan)
 - [Lex Fridman](https://www.youtube.com/c/lexfridman)
 
 
 ### Organizations
 - [Y Combinator](https://www.youtube.com/ycombinator)
+- [All-In Podcast](https://www.youtube.com/channel/UCESLZhusAkFfsNsApnjF_Cg)
 - [Slidebean](https://www.youtube.com/user/slidebean)
 - [ColdFusion](https://www.youtube.com/ColdFusion)
 - [ThinkSchool](https://www.youtube.com/ThinkSchool)
 - [BackstageWithMillionaires](https://www.youtube.com/c/BackstageWithMillionaires)
 - [a16z](https://www.youtube.com/c/a16z)
-- [PowerfulJRE](https://www.youtube.com/c/joerogan)
 - [This Week in Startups](https://www.youtube.com/c/ThisWeekIn)
 - [Greylock](https://www.youtube.com/c/GreylockVC)
 
