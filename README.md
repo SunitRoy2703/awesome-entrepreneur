@@ -76,7 +76,7 @@
 - [Eric Schmidt and Peter Thiel - Debate](https://youtu.be/PsXFwy6gG_4)
 - [Delivering Pizzas to Building a Billion Dollar Business](https://youtu.be/Ix5ON9dZ-es) - Ben Francis Gymshark CEO
 - [How He Built a ₹55,000+ CRORE Startup!](https://youtu.be/7l_r8IanRWM) - Co-Founder of Razorpay
-- [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse | Lex Fridman Podcast](https://youtu.be/5zOHSysMmH0)
+- [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse - Lex Fridman Podcast](https://youtu.be/5zOHSysMmH0)
 - [Joe Rogan Experience #1309](https://youtu.be/3qHkcs3kG44) - Naval Ravikant
 - [Shark Ashneer Grover (Founder & MD, BharatPe) On Making A Profitable Business](https://youtu.be/nnEZVVC4Ap8)
 - [Deep dive into the Fintech ecosystem](https://youtu.be/xp_CaOy5Vf0) with Sameer Nigam and Kunal Shah
@@ -122,7 +122,7 @@
 - [CRED curious](https://youtube.com/playlist?list=PLTzr9kdwf7PtSoyv2z7bzoNUNZKRdUN-E) by Cred
 - [How to Build the Future](https://www.youtube.com/playlist?list=PLQ-uHSnFig5MoTTcgd8EzenEADqGTQPpW)
 - [How to Build a Startup](https://youtube.com/playlist?list=PLAwxTw4SYaPnxzSuovATBMrNowGaaEBmW) by Udacity
-- [Product Design Course | Tech Entrepreneur Nanodegree Program](https://youtube.com/playlist?list=PLAwxTw4SYaPlTr1MmjkAZXVv8Su2CfY7D) by Udacity
+- [Product Design Course - Tech Entrepreneur Nanodegree Program](https://youtube.com/playlist?list=PLAwxTw4SYaPlTr1MmjkAZXVv8Su2CfY7D) by Udacity
 - [Entrepreneurship](https://youtube.com/playlist?list=PLLuTgG8yQcXNxZPNeFwN--i2yMy6zVjPr) by MIT LaunchX
 - [Entrepreneurship Series](https://youtube.com/playlist?list=PLGwmAEmjn4fkHGGBfGQ2Pd2D9rrOJzWhh) by Think School
 - [Video Essays](https://youtube.com/playlist?list=PLQ-uHSnFig5OA-fmW_IH2QvAuY7317FFl)
