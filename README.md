@@ -138,5 +138,6 @@
 - [How to Get Rich](https://youtu.be/1-TZqOsVCNM) by Naval
 - [How to Find a Technical Cofounder](https://youtu.be/d7tDaFr5EYA) - Michael Seibel
 - [Michael Seibel - Building Product](https://youtu.be/C27RVio2rOs)
+- [Study Near Me](https://studynearme.com/) - Find laptop-friendly cafes and workspaces for entrepreneurs to work productively across the US
 
 > [Apache License Version 2.0](LICENSE)
