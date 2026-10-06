@@ -117,6 +117,8 @@
   </div>
 
 ## Learning Resources/ Guides
+<!-- Updated 2026-10-06: added one Hungarian social-media metrics learning resource. -->
+- [Social-media metrics and business attribution limits (Hungarian guide)](https://koveto-vasarlas.hu/guides/eleres-megtekintes-lajk-elkotelezodesi-arany) - Free written guide with labelled arithmetic examples and limits on interpreting reach, views and engagement.
 - [YC Startup Library](https://www.ycombinator.com/library)
 - [Startup School Winter 2020](https://youtube.com/playlist?list=PLQ-uHSnFig5PjfCy7mE77XMGhgky9HV3o) by Y combinator
 - [CRED curious](https://youtube.com/playlist?list=PLTzr9kdwf7PtSoyv2z7bzoNUNZKRdUN-E) by Cred
